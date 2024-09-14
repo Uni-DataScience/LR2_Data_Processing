@@ -1,4 +1,4 @@
-# Sprint 10. Data Preprocessing
+# Practical Tasks 2. Data Preprocessing
 
 ## **Task 1: Removing Duplicates and Handling Missing Values**
 You are provided with a dataset that contains both duplicate rows and missing values. Your task is twofold:

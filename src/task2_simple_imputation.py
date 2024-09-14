@@ -11,10 +11,8 @@ def impute_missing_values(df):
     Returns:
     pd.DataFrame: DataFrame with missing values imputed.
     """
-    df['A'] = df['A'].fillna(df['A'].mean())
-    df['B'] = df['B'].fillna(df['B'].median())
-    df['C'] = df['C'].fillna(df['C'].mode()[0])
-    return df
+    pass
+    return None
 
 
 # Example data
